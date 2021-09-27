@@ -5,4 +5,3 @@ const more = 'more';
 const testing = 'more testing'
 const mehmeh = 'meh'
 const pull = 'result'
-const master = 'result'
